@@ -7,7 +7,7 @@ about:
   head: 39635bd
   archived: false
   latestVersion: v21.2.2
-  collectedAt: 2026-09-04T20:13:50Z
+  collectedAt: 2026-09-04T20:43:28Z
 timeline:
   created: 2016-02-12
   lastCommit: 2026-09-04
@@ -82,7 +82,7 @@ total:
   commit: 3483
 ---
 path: /home/runner/.x-repo/github.com/conventional-changelog/commitlint
-collectedAt: 2026-09-04T20:13:53Z
+collectedAt: 2026-09-04T20:43:31Z
 loc:
   TypeScript:
     code: 15046
