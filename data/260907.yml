@@ -2,21 +2,21 @@ about:
   description: "📓 Lint commit messages"
   license: MIT
   homepage: https://commitlint.js.org
-  head: 91fb534
+  head: e99aae7
   archived: false
   latestVersion: "v21.2.2"
-  collectedAt: 2026-09-07T05:50:12Z
+  collectedAt: 2026-09-07T18:45:57Z
 timeline:
   created: 2016-02-12
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-13
 popularity:
-  star: 18733
+  star: 18735
   watcher: 67
   fork: 969
   release: 190
   contributor: 301
-  pullRequest: 4263
+  pullRequest: 4264
   issue: 717
 language:
   TypeScript: 551272
@@ -26,61 +26,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 1
-    mergedPR: 52
-    openPR: 2
+    mergedPR: 55
+    openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 47
+    commit: 50
   last60d:
     since: 2026-07-09
     release: 1
-    mergedPR: 104
-    openPR: 3
+    mergedPR: 107
+    openPR: 1
     closedIssue: 2
     openIssue: 0
-    commit: 97
+    commit: 100
   last90d:
     since: 2026-06-09
     release: 4
-    mergedPR: 158
-    openPR: 4
+    mergedPR: 161
+    openPR: 2
     closedIssue: 4
     openIssue: 2
-    commit: 153
+    commit: 156
   last180d:
     since: 2026-03-11
     release: 12
-    mergedPR: 304
-    openPR: 7
+    mergedPR: 307
+    openPR: 5
     closedIssue: 14
     openIssue: 2
-    commit: 305
+    commit: 308
   last360d:
     since: 2025-09-12
     release: 21
-    mergedPR: 368
-    openPR: 9
+    mergedPR: 371
+    openPR: 7
     closedIssue: 30
     openIssue: 4
-    commit: 398
+    commit: 401
   last720d:
     since: 2024-09-17
     release: 29
-    mergedPR: 683
-    openPR: 9
+    mergedPR: 686
+    openPR: 7
     closedIssue: 77
     openIssue: 5
-    commit: 721
+    commit: 724
 total:
   release: 190
-  mergedPR: 2741
-  openPR: 9
+  mergedPR: 2744
+  openPR: 7
   closedIssue: 642
   openIssue: 75
-  commit: 3486
+  commit: 3489
 ---
 path: /home/runner/.x-repo/github.com/conventional-changelog/commitlint
-collectedAt: 2026-09-07T05:50:18Z
+collectedAt: 2026-09-07T18:46:04Z
 loc:
   TypeScript:
     code: 15050
@@ -88,9 +88,9 @@ loc:
     blanks: 2607
     files: 208
   Yaml:
-    code: 7601
+    code: 7626
     comments: 22
-    blanks: 1964
+    blanks: 1972
     files: 5
   Json:
     code: 5022
@@ -113,9 +113,9 @@ loc:
     blanks: 17283
     files: 126
 total:
-  code: 29535
+  code: 29560
   comments: 14863
-  blanks: 22081
+  blanks: 22089
   files: 666
 ---
 date: "2026-08-24"
@@ -236,7 +236,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:50:20+00:00
+  collectedAt: 2026-09-07T18:46:04+00:00
   platform:
     darwin/arm64:
       name:  null
