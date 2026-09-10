@@ -1,0 +1,52 @@
+- repo: aur
+  srcname: commitlint
+  binname: commitlint
+  visiblename: commitlint
+  version: 20.3.1
+  origversion: 20.3.1-1
+  status: outdated
+  summary: Lint commit messages
+  maintainers:
+    - carsme@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: commitlint
+  visiblename: commitlint
+  version: 21.2.2
+  origversion: null
+  status: newest
+  summary: Lint commit messages according to a commit convention
+- repo: nix_stable_25_11
+  srcname: commitlint
+  visiblename: commitlint
+  version: 20.1.0
+  origversion: null
+  status: outdated
+  summary: Lint your commit messages
+  maintainers:
+    - pyrox@pyrox.dev
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: commitlint
+  visiblename: commitlint
+  version: 20.5.3
+  origversion: null
+  status: outdated
+  summary: Lint your commit messages
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: commitlint
+  visiblename: commitlint
+  version: 21.0.0
+  origversion: null
+  status: outdated
+  summary: Lint your commit messages
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
