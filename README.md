@@ -43,35 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v21.2.2` (2026-08-13)
-- **Last commit**: 2026-09-12
+- **Last commit**: 2026-09-13
 
 ## Popularity
 
-- **Stars**: 18,735 · **Forks**: 970 · **Open issues**: 717 · **Contributors**: 301
+- **Stars**: 18,736 · **Forks**: 970 · **Open issues**: 717 · **Contributors**: 301
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 2747 · **Open PRs**: 7 · **Closed issues**: 642 · **Open issues**: 75 · **Commits**: 3492
+- **Releases**: 190 · **Merged PRs**: 2748 · **Open PRs**: 9 · **Closed issues**: 642 · **Open issues**: 75 · **Commits**: 3493
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 48 | 0 | 1 | 0 | 53 |
-| last60d | 2026-07-15 | 1 | 100 | 1 | 2 | 0 | 103 |
-| 90d | 2026-06-15 | 4 | 150 | 2 | 4 | 2 | 159 |
-| last180d | 2026-03-17 | 10 | 289 | 5 | 12 | 2 | 311 |
-| 360d | 2025-09-18 | 21 | 374 | 7 | 30 | 4 | 404 |
-| last720d | 2024-09-23 | 29 | 688 | 7 | 76 | 5 | 724 |
-
-## Distribution status
-
-Reported by **5** distros on [repology.org](https://repology.org/project/commitlint). **1** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `21.2.2` | ✅ latest |
-| Nix unstable | `21.0.0` | ⚠️ outdated |
+| 30d | 2026-08-15 | 0 | 47 | 2 | 1 | 0 | 39 |
+| last60d | 2026-07-16 | 1 | 101 | 3 | 2 | 0 | 95 |
+| 90d | 2026-06-16 | 4 | 148 | 4 | 4 | 2 | 146 |
+| last180d | 2026-03-18 | 10 | 286 | 7 | 12 | 2 | 302 |
+| 360d | 2025-09-19 | 21 | 375 | 9 | 30 | 4 | 405 |
+| last720d | 2024-09-24 | 29 | 688 | 9 | 76 | 5 | 725 |
 
 ## Improve this data
 
@@ -82,4 +73,4 @@ Install metadata for commitlint lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:02:45Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:19:33Z._
