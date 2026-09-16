@@ -26,13 +26,13 @@ x install commitlint
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.1 / 10**
+总评分: **4.8 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (2/10) — Found 1/4 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install commitlint
 
 ## 流行度
 
-- **Star**: 18,738 · **Fork**: 970 · **开放 issue**: 717 · **贡献者**: 301
+- **Star**: 18,741 · **Fork**: 969 · **开放 issue**: 717 · **贡献者**: 301
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install commitlint
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 46 | 0 | 0 | 0 | 41 |
-| last60d | 2026-07-17 | 1 | 99 | 1 | 2 | 0 | 97 |
-| 90d | 2026-06-17 | 4 | 150 | 2 | 4 | 2 | 148 |
-| last180d | 2026-03-19 | 10 | 288 | 5 | 12 | 2 | 304 |
-| 360d | 2025-09-20 | 21 | 377 | 7 | 30 | 4 | 407 |
-| last720d | 2024-09-25 | 29 | 690 | 7 | 76 | 5 | 726 |
+| 30d | 2026-08-17 | 0 | 45 | 0 | 0 | 0 | 41 |
+| last60d | 2026-07-18 | 1 | 99 | 1 | 2 | 0 | 97 |
+| 90d | 2026-06-18 | 4 | 146 | 2 | 4 | 2 | 148 |
+| last180d | 2026-03-20 | 10 | 288 | 5 | 12 | 2 | 304 |
+| 360d | 2025-09-21 | 21 | 377 | 7 | 29 | 4 | 407 |
+| last720d | 2024-09-26 | 29 | 690 | 7 | 76 | 5 | 726 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ commitlint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T06:22:59Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T06:34:04Z._
