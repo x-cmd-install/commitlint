@@ -4,7 +4,7 @@
 
 📓 Lint commit messages
 
-![commitlint](https://repo.x-cmd.io/commitlint.svg)
+[![x-cmd/install — commitlint Code Quality Monitoring Repo Card](https://repo.x-cmd.io/commitlint.svg)](https://x-cmd.com/install/commitlint)
 
 ## Install
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v21.2.2` (2026-08-13)
-- **Last commit**: 2026-09-14
+- **Latest**: `v21.2.3` (2026-09-19)
+- **Last commit**: 2026-09-19
 
 ## Popularity
 
-- **Stars**: 18,743 · **Forks**: 969 · **Open issues**: 717 · **Contributors**: 301
+- **Stars**: 18,744 · **Forks**: 970 · **Open issues**: 718 · **Contributors**: 301
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 2750 · **Open PRs**: 8 · **Closed issues**: 642 · **Open issues**: 75 · **Commits**: 3495
+- **Releases**: 191 · **Merged PRs**: 2759 · **Open PRs**: 7 · **Closed issues**: 644 · **Open issues**: 74 · **Commits**: 3505
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 43 | 1 | 0 | 0 | 41 |
-| last60d | 2026-07-20 | 1 | 97 | 2 | 2 | 0 | 97 |
-| 90d | 2026-06-20 | 4 | 145 | 3 | 4 | 2 | 148 |
-| last180d | 2026-03-22 | 10 | 287 | 6 | 12 | 2 | 304 |
-| 360d | 2025-09-23 | 21 | 377 | 8 | 29 | 4 | 407 |
-| last720d | 2024-09-28 | 29 | 688 | 8 | 76 | 5 | 726 |
+| 30d | 2026-08-21 | 1 | 42 | 0 | 0 | 1 | 51 |
+| last60d | 2026-07-22 | 2 | 102 | 1 | 2 | 1 | 107 |
+| 90d | 2026-06-22 | 5 | 152 | 2 | 4 | 3 | 158 |
+| last180d | 2026-03-24 | 11 | 296 | 5 | 12 | 3 | 314 |
+| 360d | 2025-09-25 | 22 | 383 | 7 | 29 | 5 | 417 |
+| last720d | 2024-09-30 | 30 | 697 | 7 | 76 | 6 | 735 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for commitlint lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:13:51Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:14:27Z._
