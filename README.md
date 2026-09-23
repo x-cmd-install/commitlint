@@ -4,7 +4,7 @@
 
 📓 Lint commit messages
 
-[![x-cmd/install — commitlint Code Quality Monitoring Repo Card](https://repo.x-cmd.io/commitlint.svg)](https://x-cmd.com/install/commitlint)
+[![x-cmd/install — commitlint Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/commitlint.svg)](https://x-cmd.com/install/commitlint)
 
 ## Install
 
@@ -26,11 +26,11 @@ Total: **29,514** lines of code across **540** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.8 / 10**
+Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 1/4 approved changesets -- score normalized to 2
+- **Code-Review** (0/10) — Found 0/2 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 18,747 · **Forks**: 970 · **Open issues**: 718 · **Contributors**: 301
+- **Stars**: 18,752 · **Forks**: 970 · **Open issues**: 718 · **Contributors**: 301
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 38 | 1 | 0 | 1 | 33 |
-| last60d | 2026-07-24 | 2 | 103 | 2 | 2 | 1 | 96 |
-| 90d | 2026-06-24 | 4 | 151 | 3 | 4 | 3 | 148 |
-| last180d | 2026-03-26 | 11 | 298 | 6 | 11 | 3 | 315 |
-| 360d | 2025-09-27 | 21 | 385 | 8 | 29 | 5 | 413 |
-| last720d | 2024-10-02 | 30 | 699 | 8 | 76 | 6 | 736 |
+| 30d | 2026-08-24 | 1 | 37 | 1 | 0 | 1 | 33 |
+| last60d | 2026-07-25 | 2 | 99 | 2 | 1 | 1 | 96 |
+| 90d | 2026-06-25 | 4 | 147 | 3 | 4 | 3 | 148 |
+| last180d | 2026-03-27 | 11 | 297 | 6 | 11 | 3 | 315 |
+| 360d | 2025-09-28 | 21 | 385 | 8 | 28 | 5 | 413 |
+| last720d | 2024-10-03 | 30 | 699 | 8 | 76 | 6 | 736 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for commitlint lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:29:26Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:32:19Z._
