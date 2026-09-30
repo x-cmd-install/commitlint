@@ -30,7 +30,7 @@ x install commitlint
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/2 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/1 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,26 +43,26 @@ x install commitlint
 ## 发布
 
 - **最新版本**: `v21.2.3` (2026-09-19)
-- **最近提交**: 2026-09-28
+- **最近提交**: 2026-09-29
 
 ## 流行度
 
-- **Star**: 18,757 · **Fork**: 969 · **开放 issue**: 718 · **贡献者**: 301
+- **Star**: 18,758 · **Fork**: 969 · **开放 issue**: 718 · **贡献者**: 301
 
 ## 累计统计
 
-- **发布数**: 191 · **已合并 PR**: 2770 · **开放 PR**: 7 · **已关闭 issue**: 644 · **开放 issue**: 74 · **提交数**: 3515
+- **发布数**: 191 · **已合并 PR**: 2772 · **开放 PR**: 7 · **已关闭 issue**: 644 · **开放 issue**: 74 · **提交数**: 3517
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 37 | 0 | 0 | 1 | 35 |
-| last60d | 2026-07-31 | 2 | 94 | 1 | 1 | 1 | 89 |
-| 90d | 2026-07-01 | 3 | 149 | 2 | 4 | 3 | 141 |
-| last180d | 2026-04-02 | 10 | 303 | 5 | 11 | 3 | 305 |
-| 360d | 2025-10-04 | 20 | 393 | 7 | 27 | 5 | 418 |
-| last720d | 2024-10-09 | 30 | 693 | 7 | 76 | 6 | 732 |
+| 30d | 2026-08-31 | 1 | 37 | 0 | 0 | 1 | 37 |
+| last60d | 2026-08-01 | 2 | 92 | 1 | 1 | 1 | 91 |
+| 90d | 2026-07-02 | 3 | 151 | 2 | 3 | 3 | 143 |
+| last180d | 2026-04-03 | 10 | 293 | 5 | 11 | 3 | 307 |
+| 360d | 2025-10-05 | 20 | 395 | 7 | 27 | 5 | 420 |
+| last720d | 2024-10-10 | 30 | 694 | 7 | 76 | 6 | 731 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ commitlint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260929.yml` · 2026-09-29T06:57:30Z._
+_数据快照: `data/card/260930.yml` · 2026-09-30T06:44:18Z._

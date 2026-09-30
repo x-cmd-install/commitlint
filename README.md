@@ -30,7 +30,7 @@ Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/2 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/1 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v21.2.3` (2026-09-19)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-09-29
 
 ## Popularity
 
-- **Stars**: 18,757 · **Forks**: 969 · **Open issues**: 718 · **Contributors**: 301
+- **Stars**: 18,758 · **Forks**: 969 · **Open issues**: 718 · **Contributors**: 301
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 2770 · **Open PRs**: 7 · **Closed issues**: 644 · **Open issues**: 74 · **Commits**: 3515
+- **Releases**: 191 · **Merged PRs**: 2772 · **Open PRs**: 7 · **Closed issues**: 644 · **Open issues**: 74 · **Commits**: 3517
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 37 | 0 | 0 | 1 | 35 |
-| last60d | 2026-07-31 | 2 | 94 | 1 | 1 | 1 | 89 |
-| 90d | 2026-07-01 | 3 | 149 | 2 | 4 | 3 | 141 |
-| last180d | 2026-04-02 | 10 | 303 | 5 | 11 | 3 | 305 |
-| 360d | 2025-10-04 | 20 | 393 | 7 | 27 | 5 | 418 |
-| last720d | 2024-10-09 | 30 | 693 | 7 | 76 | 6 | 732 |
+| 30d | 2026-08-31 | 1 | 37 | 0 | 0 | 1 | 37 |
+| last60d | 2026-08-01 | 2 | 92 | 1 | 1 | 1 | 91 |
+| 90d | 2026-07-02 | 3 | 151 | 2 | 3 | 3 | 143 |
+| last180d | 2026-04-03 | 10 | 293 | 5 | 11 | 3 | 307 |
+| 360d | 2025-10-05 | 20 | 395 | 7 | 27 | 5 | 420 |
+| last720d | 2024-10-10 | 30 | 694 | 7 | 76 | 6 | 731 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for commitlint lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:57:29Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:44:17Z._
