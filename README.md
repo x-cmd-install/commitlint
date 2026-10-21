@@ -26,11 +26,11 @@ Total: **29,308** lines of code across **546** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (-1/10) — Found no human activity in the last 30 changesets
+- **Code-Review** (0/10) — Found 0/5 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v21.2.4` (2026-10-18)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-21
 
 ## Popularity
 
-- **Stars**: 18,780 · **Forks**: 969 · **Open issues**: 718 · **Contributors**: 301
+- **Stars**: 18,780 · **Forks**: 970 · **Open issues**: 718 · **Contributors**: 301
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 2811 · **Open PRs**: 8 · **Closed issues**: 644 · **Open issues**: 74 · **Commits**: 3557
+- **Releases**: 192 · **Merged PRs**: 2812 · **Open PRs**: 10 · **Closed issues**: 644 · **Open issues**: 74 · **Commits**: 3558
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 1 | 50 | 1 | 0 | 0 | 48 |
-| last60d | 2026-08-21 | 2 | 93 | 1 | 0 | 1 | 88 |
-| 90d | 2026-07-22 | 3 | 153 | 2 | 2 | 1 | 150 |
-| last180d | 2026-04-23 | 11 | 299 | 5 | 8 | 3 | 318 |
-| 360d | 2025-10-25 | 21 | 434 | 8 | 25 | 5 | 460 |
-| last720d | 2024-10-30 | 31 | 730 | 8 | 71 | 6 | 768 |
+| 30d | 2026-09-21 | 1 | 49 | 3 | 0 | 0 | 49 |
+| last60d | 2026-08-22 | 2 | 89 | 3 | 0 | 1 | 89 |
+| 90d | 2026-07-23 | 3 | 153 | 4 | 2 | 1 | 151 |
+| last180d | 2026-04-24 | 11 | 299 | 7 | 8 | 3 | 319 |
+| 360d | 2025-10-26 | 21 | 435 | 10 | 25 | 5 | 461 |
+| last720d | 2024-10-31 | 31 | 731 | 10 | 71 | 6 | 769 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for commitlint lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:51:38Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:43:06Z._
