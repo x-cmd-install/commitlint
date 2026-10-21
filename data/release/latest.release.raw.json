@@ -41,5 +41,17 @@
   "tarball_url": "https://api.github.com/repos/conventional-changelog/commitlint/tarball/v21.2.4",
   "zipball_url": "https://api.github.com/repos/conventional-changelog/commitlint/zipball/v21.2.4",
   "body": "\r\n## [21.2.4](https://github.com/conventional-changelog/commitlint/compare/v21.2.3...v21.2.4) (2026-10-18)\r\n\r\n### Bug Fixes\r\n\r\n* fix(load): replace config file arrays with seed arrays by @escapedcat in https://github.com/conventional-changelog/commitlint/pull/5056\r\n* fix: update dependency jsonc to v3 by @renovate[bot] in https://github.com/conventional-changelog/commitlint/pull/5020\r\n\r\n### Performance Improvements\r\n\r\n\r\n* perf(load): load typescript configs with jiti directly by @escapedcat in https://github.com/conventional-changelog/commitlint/pull/5052\r\n\r\n### Docs, etc\r\n\r\n* docs: add AGENTS.md with commit type guidance by @escapedcat in https://github.com/conventional-changelog/commitlint/pull/5053\r\n* test(ensure): pin case conversion of digits, punctuation and accents by @escapedcat in https://github.com/conventional-changelog/commitlint/pull/5055\r\n\r\n\r\n**Full Changelog**: https://github.com/conventional-changelog/commitlint/compare/v21.2.3...v21.2.4\r\n\r\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/conventional-changelog/commitlint/releases/416450061/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 1,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 2
 }
