@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 49 | 3 | 0 | 0 | 49 |
-| last60d | 2026-08-22 | 2 | 89 | 3 | 0 | 1 | 89 |
-| 90d | 2026-07-23 | 3 | 153 | 4 | 2 | 1 | 151 |
-| last180d | 2026-04-24 | 11 | 299 | 7 | 8 | 3 | 319 |
-| 360d | 2025-10-26 | 21 | 435 | 10 | 25 | 5 | 461 |
-| last720d | 2024-10-31 | 31 | 731 | 10 | 71 | 6 | 769 |
+| 30d | 2026-09-22 | 1 | 49 | 3 | 0 | 0 | 49 |
+| last60d | 2026-08-23 | 2 | 88 | 3 | 0 | 1 | 89 |
+| 90d | 2026-07-24 | 3 | 153 | 4 | 2 | 1 | 151 |
+| last180d | 2026-04-25 | 11 | 298 | 7 | 8 | 3 | 319 |
+| 360d | 2025-10-27 | 21 | 435 | 10 | 25 | 5 | 461 |
+| last720d | 2024-11-01 | 31 | 731 | 10 | 70 | 6 | 769 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for commitlint lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:43:06Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T06:00:16Z._
