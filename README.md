@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 18,784 · **Forks**: 972 · **Open issues**: 718 · **Contributors**: 301
+- **Stars**: 18,787 · **Forks**: 973 · **Open issues**: 718 · **Contributors**: 301
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 1 | 51 | 6 | 0 | 0 | 46 |
-| last60d | 2026-08-29 | 2 | 90 | 6 | 0 | 1 | 86 |
-| 90d | 2026-07-30 | 3 | 147 | 7 | 1 | 1 | 144 |
-| last180d | 2026-05-01 | 9 | 301 | 10 | 8 | 3 | 314 |
-| 360d | 2025-11-02 | 21 | 444 | 13 | 24 | 5 | 469 |
-| last720d | 2024-11-07 | 31 | 740 | 13 | 69 | 6 | 778 |
+| 30d | 2026-09-29 | 1 | 49 | 6 | 0 | 0 | 46 |
+| last60d | 2026-08-30 | 2 | 88 | 6 | 0 | 1 | 86 |
+| 90d | 2026-07-31 | 3 | 145 | 7 | 1 | 1 | 144 |
+| last180d | 2026-05-02 | 9 | 299 | 10 | 8 | 3 | 314 |
+| 360d | 2025-11-03 | 21 | 444 | 13 | 24 | 5 | 469 |
+| last720d | 2024-11-08 | 31 | 740 | 13 | 69 | 6 | 778 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for commitlint lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:53:36Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:57:46Z._
