@@ -7,7 +7,7 @@ about:
   latestVersion: "v21.2.4"
   latestRelease: "v21.2.4"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T06:56:52Z
+  collectedAt: 2026-10-31T06:50:43Z
 timeline:
   created: 2016-02-12
   lastCommit: 2026-10-30
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-10-18
   lastPrerelease: 
 popularity:
-  star: 18788
+  star: 18791
   watcher: 62
   fork: 973
   release: 192
   contributor: 301
-  pullRequest: 4353
+  pullRequest: 4354
   issue: 718
 language:
   TypeScript: 559070
@@ -28,63 +28,63 @@ language:
 totalBytes: 610184
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 1
-    mergedPR: 52
-    openPR: 6
+    mergedPR: 48
+    openPR: 7
     closedIssue: 0
     openIssue: 0
     commit: 49
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 2
-    mergedPR: 89
-    openPR: 6
+    mergedPR: 88
+    openPR: 7
     closedIssue: 0
     openIssue: 1
     commit: 89
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 3
-    mergedPR: 144
-    openPR: 7
+    mergedPR: 143
+    openPR: 8
     closedIssue: 1
     openIssue: 1
     commit: 147
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 9
     mergedPR: 302
-    openPR: 10
+    openPR: 11
     closedIssue: 8
     openIssue: 3
     commit: 317
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 21
     mergedPR: 447
-    openPR: 13
+    openPR: 14
     closedIssue: 24
     openIssue: 5
     commit: 472
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 31
     mergedPR: 743
-    openPR: 13
+    openPR: 14
     closedIssue: 69
     openIssue: 6
     commit: 780
 total:
   release: 192
   mergedPR: 2824
-  openPR: 13
+  openPR: 14
   closedIssue: 644
   openIssue: 74
   commit: 3570
 ---
 path: /home/runner/.x-repo/github.com/conventional-changelog/commitlint
-collectedAt: 2026-10-30T06:56:57Z
+collectedAt: 2026-10-31T06:50:49Z
 loc:
   TypeScript:
     code: 15234
