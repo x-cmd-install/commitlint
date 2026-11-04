@@ -14,11 +14,11 @@ x install commitlint
 
 ## Code insight
 
-Total: **29,525** lines of code across **545** files in the top 5 languages.
+Total: **29,540** lines of code across **545** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 15,269 | 525 | 2,647 | 209 |
+| TypeScript | 15,284 | 525 | 2,651 | 209 |
 | Yaml | 7,471 | 22 | 1,911 | 5 |
 | Json | 5,022 | 0 | 0 | 167 |
 | JavaScript | 1,757 | 86 | 218 | 162 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v21.2.4` (2026-10-18)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-04
 
 ## Popularity
 
-- **Stars**: 18,798 · **Forks**: 974 · **Open issues**: 718 · **Contributors**: 302
+- **Stars**: 18,797 · **Forks**: 975 · **Open issues**: 718 · **Contributors**: 303
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 2830 · **Open PRs**: 13 · **Closed issues**: 645 · **Open issues**: 73 · **Commits**: 3576
+- **Releases**: 192 · **Merged PRs**: 2831 · **Open PRs**: 13 · **Closed issues**: 646 · **Open issues**: 72 · **Commits**: 3577
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 49 | 5 | 0 | 0 | 42 |
-| last60d | 2026-09-04 | 2 | 91 | 6 | 0 | 1 | 84 |
-| 90d | 2026-08-05 | 3 | 144 | 6 | 1 | 1 | 142 |
-| last180d | 2026-05-07 | 9 | 306 | 10 | 7 | 3 | 317 |
-| 360d | 2025-11-08 | 21 | 453 | 13 | 24 | 5 | 477 |
-| last720d | 2024-11-13 | 31 | 749 | 13 | 68 | 6 | 786 |
+| 30d | 2026-10-05 | 1 | 48 | 5 | 0 | 0 | 43 |
+| last60d | 2026-09-05 | 2 | 91 | 6 | 0 | 1 | 85 |
+| 90d | 2026-08-06 | 3 | 142 | 6 | 1 | 1 | 143 |
+| last180d | 2026-05-08 | 9 | 307 | 10 | 7 | 3 | 318 |
+| 360d | 2025-11-09 | 21 | 454 | 13 | 24 | 5 | 478 |
+| last720d | 2024-11-14 | 31 | 750 | 13 | 68 | 6 | 787 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for commitlint lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:13:51Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:35:44Z._
