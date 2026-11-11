@@ -26,7 +26,7 @@ Total: **29,824** lines of code across **547** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.2 / 10**
+Overall score: **5.4 / 10**
 
 Lowest-scoring checks:
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 18,806 · **Forks**: 978 · **Open issues**: 719 · **Contributors**: 305
+- **Stars**: 18,809 · **Forks**: 979 · **Open issues**: 719 · **Contributors**: 305
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 2859 · **Open PRs**: 15 · **Closed issues**: 652 · **Open issues**: 67 · **Commits**: 3605
+- **Releases**: 192 · **Merged PRs**: 2859 · **Open PRs**: 16 · **Closed issues**: 652 · **Open issues**: 67 · **Commits**: 3605
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 1 | 65 | 7 | 1 | 0 | 52 |
-| last60d | 2026-09-11 | 2 | 111 | 8 | 1 | 1 | 106 |
-| 90d | 2026-08-12 | 3 | 164 | 8 | 2 | 1 | 152 |
-| last180d | 2026-05-14 | 7 | 319 | 12 | 7 | 3 | 324 |
-| 360d | 2025-11-15 | 21 | 481 | 15 | 23 | 5 | 495 |
-| last720d | 2024-11-20 | 30 | 774 | 15 | 67 | 6 | 811 |
+| 30d | 2026-10-12 | 1 | 63 | 8 | 1 | 0 | 52 |
+| last60d | 2026-09-12 | 2 | 111 | 9 | 1 | 1 | 106 |
+| 90d | 2026-08-13 | 3 | 160 | 9 | 2 | 1 | 152 |
+| last180d | 2026-05-15 | 7 | 317 | 12 | 7 | 3 | 324 |
+| 360d | 2025-11-16 | 21 | 481 | 16 | 23 | 5 | 495 |
+| last720d | 2024-11-21 | 30 | 774 | 16 | 67 | 6 | 811 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for commitlint lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:36:52Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:43:40Z._
