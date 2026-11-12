@@ -14,14 +14,14 @@ x install commitlint
 
 ## Code insight
 
-Total: **29,824** lines of code across **547** files in the top 5 languages.
+Total: **30,072** lines of code across **547** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 15,561 | 532 | 2,696 | 211 |
+| TypeScript | 15,774 | 543 | 2,725 | 211 |
 | Yaml | 7,478 | 22 | 1,899 | 5 |
 | Json | 5,022 | 0 | 0 | 167 |
-| JavaScript | 1,757 | 86 | 218 | 162 |
+| JavaScript | 1,792 | 87 | 223 | 162 |
 | Svg | 6 | 0 | 0 | 2 |
 
 ## OpenSSF Scorecard
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v21.2.4` (2026-10-18)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-12
 
 ## Popularity
 
-- **Stars**: 18,809 · **Forks**: 979 · **Open issues**: 719 · **Contributors**: 305
+- **Stars**: 18,810 · **Forks**: 980 · **Open issues**: 719 · **Contributors**: 306
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 2859 · **Open PRs**: 16 · **Closed issues**: 652 · **Open issues**: 67 · **Commits**: 3605
+- **Releases**: 192 · **Merged PRs**: 2862 · **Open PRs**: 17 · **Closed issues**: 654 · **Open issues**: 65 · **Commits**: 3608
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 1 | 63 | 8 | 1 | 0 | 52 |
-| last60d | 2026-09-12 | 2 | 111 | 9 | 1 | 1 | 106 |
-| 90d | 2026-08-13 | 3 | 160 | 9 | 2 | 1 | 152 |
-| last180d | 2026-05-15 | 7 | 317 | 12 | 7 | 3 | 324 |
-| 360d | 2025-11-16 | 21 | 481 | 16 | 23 | 5 | 495 |
-| last720d | 2024-11-21 | 30 | 774 | 16 | 67 | 6 | 811 |
+| 30d | 2026-10-13 | 1 | 60 | 9 | 1 | 0 | 55 |
+| last60d | 2026-09-13 | 2 | 112 | 10 | 1 | 1 | 109 |
+| 90d | 2026-08-14 | 2 | 162 | 10 | 2 | 1 | 155 |
+| last180d | 2026-05-16 | 7 | 318 | 13 | 7 | 3 | 327 |
+| 360d | 2025-11-17 | 21 | 484 | 17 | 23 | 5 | 498 |
+| last720d | 2024-11-22 | 30 | 775 | 17 | 67 | 6 | 813 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for commitlint lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:43:40Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:51:34Z._
