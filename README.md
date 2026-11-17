@@ -24,16 +24,6 @@ Total: **30,205** lines of code across **547** files in the top 5 languages.
 | JavaScript | 1,792 | 87 | 223 | 162 |
 | Svg | 6 | 0 | 0 | 2 |
 
-## OpenSSF Scorecard
-
-Overall score: **5.4 / 10**
-
-Lowest-scoring checks:
-
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
-
 ## Source
 
 - **Upstream**: <https://github.com/conventional-changelog/commitlint>
@@ -43,26 +33,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v21.2.4` (2026-10-18)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-17
 
 ## Popularity
 
-- **Stars**: 18,818 · **Forks**: 980 · **Open issues**: 719 · **Contributors**: 306
+- **Stars**: 18,823 · **Forks**: 980 · **Open issues**: 719 · **Contributors**: 306
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 2871 · **Open PRs**: 15 · **Closed issues**: 656 · **Open issues**: 63 · **Commits**: 3617
+- **Releases**: 192 · **Merged PRs**: 2872 · **Open PRs**: 15 · **Closed issues**: 656 · **Open issues**: 63 · **Commits**: 3618
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 62 | 7 | 1 | 0 | 55 |
-| last60d | 2026-09-17 | 2 | 119 | 8 | 1 | 1 | 106 |
-| 90d | 2026-08-18 | 2 | 164 | 8 | 1 | 1 | 145 |
-| last180d | 2026-05-20 | 7 | 323 | 11 | 7 | 3 | 320 |
-| 360d | 2025-11-21 | 21 | 485 | 15 | 23 | 5 | 507 |
-| last720d | 2024-11-26 | 30 | 784 | 15 | 67 | 6 | 820 |
+| 30d | 2026-10-18 | 1 | 62 | 7 | 1 | 0 | 56 |
+| last60d | 2026-09-18 | 2 | 116 | 8 | 1 | 0 | 107 |
+| 90d | 2026-08-19 | 2 | 164 | 8 | 1 | 1 | 146 |
+| last180d | 2026-05-21 | 7 | 323 | 11 | 7 | 3 | 321 |
+| 360d | 2025-11-22 | 21 | 486 | 15 | 23 | 5 | 508 |
+| last720d | 2024-11-27 | 30 | 784 | 15 | 67 | 6 | 821 |
 
 ## Distribution status
 
@@ -82,4 +72,4 @@ Install metadata for commitlint lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:25:40Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:19:06Z._
