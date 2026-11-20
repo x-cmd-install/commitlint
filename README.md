@@ -37,22 +37,22 @@ Total: **30,275** lines of code across **547** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 18,831 · **Forks**: 982 · **Open issues**: 720 · **Contributors**: 306
+- **Stars**: 18,833 · **Forks**: 984 · **Open issues**: 720 · **Contributors**: 306
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 2874 · **Open PRs**: 15 · **Closed issues**: 657 · **Open issues**: 63 · **Commits**: 3620
+- **Releases**: 192 · **Merged PRs**: 2874 · **Open PRs**: 23 · **Closed issues**: 657 · **Open issues**: 63 · **Commits**: 3620
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 62 | 7 | 1 | 1 | 58 |
-| last60d | 2026-09-20 | 1 | 113 | 8 | 1 | 1 | 109 |
-| 90d | 2026-08-21 | 2 | 156 | 8 | 1 | 2 | 148 |
-| last180d | 2026-05-23 | 7 | 325 | 11 | 7 | 4 | 323 |
-| 360d | 2025-11-24 | 21 | 488 | 15 | 23 | 6 | 510 |
-| last720d | 2024-11-29 | 30 | 783 | 15 | 67 | 7 | 820 |
+| 30d | 2026-10-21 | 0 | 62 | 13 | 1 | 1 | 58 |
+| last60d | 2026-09-21 | 1 | 111 | 16 | 1 | 1 | 109 |
+| 90d | 2026-08-22 | 2 | 151 | 16 | 1 | 2 | 148 |
+| last180d | 2026-05-24 | 7 | 319 | 19 | 7 | 4 | 323 |
+| 360d | 2025-11-25 | 21 | 488 | 23 | 23 | 6 | 510 |
+| last720d | 2024-11-30 | 30 | 783 | 23 | 67 | 7 | 820 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for commitlint lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:27:56Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:15:59Z._
