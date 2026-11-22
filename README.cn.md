@@ -24,6 +24,16 @@ x install commitlint
 | JavaScript | 1,792 | 87 | 223 | 162 |
 | Svg | 6 | 0 | 0 | 2 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **5.5 / 10**
+
+评分最低的几项:
+
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Security-Policy** (0/10) — security policy file not detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/conventional-changelog/commitlint>
@@ -33,26 +43,26 @@ x install commitlint
 ## 发布
 
 - **最新版本**: `v21.2.4` (2026-10-18)
-- **最近提交**: 2026-11-20
+- **最近提交**: 2026-11-21
 
 ## 流行度
 
-- **Star**: 18,834 · **Fork**: 984 · **开放 issue**: 720 · **贡献者**: 308
+- **Star**: 18,841 · **Fork**: 986 · **开放 issue**: 720 · **贡献者**: 308
 
 ## 累计统计
 
-- **发布数**: 192 · **已合并 PR**: 2879 · **开放 PR**: 18 · **已关闭 issue**: 658 · **开放 issue**: 62 · **提交数**: 3625
+- **发布数**: 192 · **已合并 PR**: 2880 · **开放 PR**: 20 · **已关闭 issue**: 658 · **开放 issue**: 62 · **提交数**: 3626
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 67 | 7 | 1 | 1 | 0 |
-| last60d | 2026-09-22 | 1 | 116 | 11 | 1 | 1 | 0 |
-| 90d | 2026-08-23 | 2 | 155 | 11 | 1 | 2 | 0 |
-| last180d | 2026-05-25 | 7 | 321 | 14 | 7 | 4 | 0 |
-| 360d | 2025-11-26 | 21 | 493 | 18 | 23 | 6 | 0 |
-| last720d | 2024-12-01 | 30 | 788 | 18 | 67 | 7 | 825 |
+| 30d | 2026-10-23 | 0 | 66 | 9 | 1 | 1 | 56 |
+| last60d | 2026-09-23 | 1 | 117 | 13 | 1 | 1 | 105 |
+| 90d | 2026-08-24 | 2 | 155 | 13 | 1 | 2 | 145 |
+| last180d | 2026-05-26 | 7 | 321 | 16 | 6 | 4 | 314 |
+| 360d | 2025-11-27 | 21 | 494 | 20 | 23 | 6 | 515 |
+| last720d | 2024-12-02 | 30 | 789 | 20 | 67 | 7 | 826 |
 
 ## 发行版状态
 
@@ -72,4 +82,4 @@ commitlint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T08:14:24Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T08:35:08Z._
