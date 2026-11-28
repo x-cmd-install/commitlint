@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 18,855 · **Forks**: 986 · **Open issues**: 720 · **Contributors**: 310
+- **Stars**: 18,854 · **Forks**: 986 · **Open issues**: 720 · **Contributors**: 310
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 2895 · **Open PRs**: 16 · **Closed issues**: 661 · **Open issues**: 59 · **Commits**: 3642
+- **Releases**: 192 · **Merged PRs**: 2895 · **Open PRs**: 17 · **Closed issues**: 661 · **Open issues**: 59 · **Commits**: 3642
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 74 | 3 | 2 | 0 | 71 |
-| last60d | 2026-09-28 | 1 | 125 | 9 | 2 | 0 | 120 |
-| 90d | 2026-08-29 | 2 | 164 | 9 | 2 | 1 | 160 |
-| last180d | 2026-05-31 | 6 | 328 | 12 | 7 | 3 | 329 |
-| 360d | 2025-12-02 | 21 | 508 | 16 | 24 | 5 | 530 |
-| last720d | 2024-12-07 | 30 | 804 | 16 | 68 | 6 | 842 |
+| 30d | 2026-10-29 | 0 | 74 | 4 | 2 | 0 | 71 |
+| last60d | 2026-09-29 | 1 | 123 | 10 | 2 | 0 | 120 |
+| 90d | 2026-08-30 | 2 | 162 | 10 | 2 | 1 | 160 |
+| last180d | 2026-06-01 | 6 | 326 | 13 | 7 | 3 | 329 |
+| 360d | 2025-12-03 | 21 | 508 | 17 | 24 | 5 | 530 |
+| last720d | 2024-12-08 | 30 | 804 | 17 | 68 | 6 | 842 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for commitlint lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:47:07Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:28:26Z._
